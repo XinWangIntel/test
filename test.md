@@ -10,3 +10,6 @@ tested squash and merge which create one commit on base
 test merge commit
 
 test rebase commit
+
+add two commit to test rebase commit changes
+first
